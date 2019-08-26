@@ -1,9 +1,7 @@
 
 .gitignore
-adminapp/__pycache__/
-adminapp/captcha/__pycache__/
-adminapp/migrations/__pycache__/
-employee/__pycache__/
-employee/migrations/__pycache__/
+adminapp/migrations/
+employee/migrations/
 ems2/__pycache__/
 ems2/settings.py
+.idea/vcs.xml
